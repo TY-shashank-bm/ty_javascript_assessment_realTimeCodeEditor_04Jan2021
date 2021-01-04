@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(lightblue, rgb(255, 255, 177));
+  background-repeat: no-repeat;
+}
+#lab-html {
+  margin-top: 12px;
+}
+.container {
+  width: 600px;
+  float: left;
+}
+textarea {
+  width: 500px;
+  display: block;
+  height: 400px;
+  margin-bottom: 5px;
+  border: none;
+}
+iframe {
+  height: auto;
+  margin-right: 20px;
+  border: none;
+  margin-bottom: 20px;
+}
+#con {
+  margin-left: 60px;
+}
+p {
+  font-size: 40px;
+}
